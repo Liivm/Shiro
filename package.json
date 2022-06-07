@@ -2,7 +2,7 @@
   "name": "tundrabot",
   "version": "2.0.0",
   "engines": {
-    "node": ">=16.9.0",
+    "node": ">=16.9.0"
   },
   "description": "",
   "main": "TundraBot.ts",
